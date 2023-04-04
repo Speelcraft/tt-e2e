@@ -1,0 +1,20 @@
+.Header {
+  width: 300px;
+  margin: auto;
+  margin-top: 10px;
+}
+
+.ListsWrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+span.DeleteItem {
+  font-size: x-small;
+  color: darkred;
+}
+
+span.ListHeader {
+  margin-left: 10px
+}
